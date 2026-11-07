@@ -5,8 +5,8 @@
 ## 👥 1. Про проєкт та команда
 * **Назва продукту:** «CyberBeans» (Роботизована кав'ярня майбутнього)
 * **Команда розробки:** 
-  * *[Впишіть ваше ім'я]* — UI/UX & Frontend Developer
-  * *[Впишіть ім'я партнера]* — Product Manager & QA
+  * *[Олексій]* — UI/UX & Frontend Developer
+  * *[Софія]* — Product Manager & QA
 
 ---
 
